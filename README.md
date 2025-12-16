@@ -10,7 +10,7 @@ A Python-based tool designed to extract and manage key information from invoices
 
 - Reads and stores invoice dates
 
-Lightweight and easy to integrate into existing Python projects
+- Lightweight and easy to integrate into existing Python projects
 
 ## Technologies
 
